@@ -29,7 +29,7 @@ ul {
 // Nav
 
 nav {
-    background: url(/img/main.jpg) no-repeat center center/cover;
+    background: url(../img/main.jpg) no-repeat center center/cover;
     height: 100vh;
     background-color: rgba(225, 225, 225, .1);
     background-blend-mode: lighten;
@@ -173,7 +173,7 @@ nav {
     }
 
     .info-img {
-        background: url(/img/info.jpg)no-repeat center center/cover;
+        background: url(../img/info.jpg)no-repeat center center/cover;
         width: 50%;
         height: 100%;
 
@@ -356,7 +356,7 @@ nav {
 
 #testimonials {
     height: 100%;
-    background: url('/img/photo2.jpg')no-repeat center center/cover;
+    background: url('../img/photo2.jpg')no-repeat center center/cover;
     padding: 80px 0 30px;
 
     .container {
